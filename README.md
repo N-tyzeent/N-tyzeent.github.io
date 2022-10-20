@@ -1,2 +1,2 @@
 # N-tyzeent.github.io
-The website for N-tyze Entertainment
+N-tyze Entertainment - Possibilities with entertainment
